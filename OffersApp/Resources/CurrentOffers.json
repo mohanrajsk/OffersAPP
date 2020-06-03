@@ -1,0 +1,45 @@
+[
+  {
+    "title":"Offers for staying in...",
+    "offers": [
+    {
+      "imageName":"cinema-stream",
+      "offerTittle":"Up to 27% off movie rentals"
+    },
+    {
+      "imageName":"pizza-box",
+      "offerTittle":"50% off delivery"
+    },
+    {
+      "imageName":"order-food",
+      "offerTittle":"2 for 1 on collection"
+    },
+    {
+      "imageName":"retail",
+      "offerTittle":"Online retails offers"
+    }
+  
+    ]
+    
+  },
+  {
+    "title":"Offers for going out...",
+    "offers": [
+    {
+      "imageName":"knife-and-fork",
+      "offerTittle":"2 for 1 or 50% off food at 6,000+ restaurents"
+    },
+    {
+      "imageName":"cinema-clapper-2",
+      "offerTittle":"Up to 40% off cinema tickets"
+    },
+    {
+      "imageName":"roller-coaster-2",
+      "offerTittle":"Up to 50% off days out"
+    }
+  
+    ]
+    
+  }
+
+]
