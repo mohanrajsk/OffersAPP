@@ -32,6 +32,8 @@
 		38DD1F6C2487C20400F5CECD /* OfferViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 38DD1F6B2487C20400F5CECD /* OfferViewCell.xib */; };
 		38DD1F6D2487C20400F5CECD /* OfferViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 38DD1F6B2487C20400F5CECD /* OfferViewCell.xib */; };
 		38DD1F6F2487DF4100F5CECD /* OffersViewModelTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38DD1F6E2487DF4100F5CECD /* OffersViewModelTests.swift */; };
+		38DD1F782487EEA300F5CECD /* iPadPro.png in Resources */ = {isa = PBXBuildFile; fileRef = 38DD1F762487EEA200F5CECD /* iPadPro.png */; };
+		38DD1F792487EEA300F5CECD /* iphoneXpro.png in Resources */ = {isa = PBXBuildFile; fileRef = 38DD1F772487EEA200F5CECD /* iphoneXpro.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -74,6 +76,8 @@
 		38DD1F682487B73900F5CECD /* SectionHeader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SectionHeader.swift; sourceTree = "<group>"; };
 		38DD1F6B2487C20400F5CECD /* OfferViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = OfferViewCell.xib; sourceTree = "<group>"; };
 		38DD1F6E2487DF4100F5CECD /* OffersViewModelTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OffersViewModelTests.swift; sourceTree = "<group>"; };
+		38DD1F762487EEA200F5CECD /* iPadPro.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iPadPro.png; sourceTree = "<group>"; };
+		38DD1F772487EEA200F5CECD /* iphoneXpro.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iphoneXpro.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -124,6 +128,7 @@
 		38DD1F1024877A8600F5CECD /* OffersApp */ = {
 			isa = PBXGroup;
 			children = (
+				38DD1F752487EE8700F5CECD /* ScreenSHots */,
 				38DD1F5E2487A6C600F5CECD /* Resources */,
 				38DD1F4424878BD300F5CECD /* Models */,
 				38DD1F4624878BEE00F5CECD /* Views */,
@@ -207,6 +212,15 @@
 				38DD1F5F2487A6EC00F5CECD /* CurrentOffers.json */,
 			);
 			path = Resources;
+			sourceTree = "<group>";
+		};
+		38DD1F752487EE8700F5CECD /* ScreenSHots */ = {
+			isa = PBXGroup;
+			children = (
+				38DD1F762487EEA200F5CECD /* iPadPro.png */,
+				38DD1F772487EEA200F5CECD /* iphoneXpro.png */,
+			);
+			path = ScreenSHots;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -315,7 +329,9 @@
 			files = (
 				38DD1F602487A6EC00F5CECD /* CurrentOffers.json in Resources */,
 				38DD1F2124877A8C00F5CECD /* LaunchScreen.storyboard in Resources */,
+				38DD1F792487EEA300F5CECD /* iphoneXpro.png in Resources */,
 				38DD1F6C2487C20400F5CECD /* OfferViewCell.xib in Resources */,
+				38DD1F782487EEA300F5CECD /* iPadPro.png in Resources */,
 				38DD1F1E24877A8C00F5CECD /* Assets.xcassets in Resources */,
 				38DD1F5C248795D900F5CECD /* OfferViewController.xib in Resources */,
 			);
